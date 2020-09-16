@@ -3,4 +3,4 @@ This repository is for showing potential employers examples of the type of progr
 
 Chess: Chess.java:  A chess game. 2 player, free character movement. Made at a Codeday.
 
-League of Legends Team Builder: TeamBuilder.java and League champions.txt: Generates 2 League of Legends teams randomly. Prints the champion's names in the console.
+League of Legends Team Builder: TeamBuilder.java and League champions.txt: Generates a League of Legends team randomly. Prints the champion's names in the console.
