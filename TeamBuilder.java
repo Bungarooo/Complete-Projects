@@ -2,6 +2,18 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+
+
+/**
+ * This code uses League champions.txt as its database.
+ * If you want to add or remove a champion from a certain role, you can do so by modifying the database
+ * 
+ * @author Ben Ungar
+ * 
+ * @date 4/28/20
+ *
+ */
 public class TeamBuilder {
 
 	
