@@ -1,5 +1,5 @@
 # Complete-Projects
-This repository is for showing potential employers examples of the type of programs I have written.
+This repository is for some of the simpler programs I have written outside of classes.
 
 Chess: Chess.java:  A chess game. 2 player, free character movement. Made at a Codeday.
 Preview here: https://youtu.be/8Yr9ASRTyNs
